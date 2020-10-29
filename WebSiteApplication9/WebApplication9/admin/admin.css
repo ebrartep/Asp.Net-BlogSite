@@ -1,0 +1,101 @@
+﻿body {
+    background-color: #f7dede;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+}
+.butongorsel {
+background-color:#b26da0;
+width:100px;
+height:25px;
+color:#fff;
+}
+
+.buton:hover{
+background-color:rgba(185, 32, 182, 0.44);
+
+
+}
+
+.textboxGorsel{
+    width:50px;
+    height:25px;
+    border:1px dotted #ef6161;
+
+}
+.dropdownlistGorsel{
+    height:25px;
+    width:auto;
+    
+}
+a:hover{
+    color:#a8dae5;
+}
+.kutu {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.slider {
+    width: 1000px;
+    height: 100px;
+    float: left;
+    background-color: #c13eae;
+}
+
+
+
+.govde {
+    width: 1000px;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+}
+
+.govdesol {
+    width: 270px;
+    height: auto;
+    float: left;
+}
+
+.govdesolbaslik {
+    width: 100%;
+    height: 30px;
+    float: left;
+    background-color: #c13eae;
+    border: 1px dotted #bc68f6;
+    line-height:30px;
+    font:white;
+
+}
+
+.govdesolicerik {
+    width: 100%;
+    height: auto;
+    float: left;
+    border: 1px dotted #bc68f6;
+}
+
+.govdesag {
+    width: 700px;
+    height: auto;
+    float: right;
+    border: 1px dotted #bc68f6;
+}
+
+.alt {
+    width: 100%;
+    height: 40px;
+    float: left;
+    background-color: #bc68f6;
+    margin-top: 20px;
+}

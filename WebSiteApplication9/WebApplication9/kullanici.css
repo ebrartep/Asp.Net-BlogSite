@@ -1,0 +1,115 @@
+﻿body {
+    background-color: #f7dede;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    font-weight:bolder;
+}
+.butongorsel {
+    background-color: #b26da0;
+    width: 100px;
+    height: 25px;
+    color: #fff;
+}
+
+.buton:hover {
+    background-color: rgba(185, 32, 182, 0.44);
+}
+
+.textboxGorsel {
+    width: 150px;
+    height: 30px;
+    border: 1px dotted #c13eae;
+}
+
+.menubutton {
+    float: left;
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+    color: #c13eae;
+    background-color: #fff;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.menubutton:hover{
+    font-weight:bolder;
+}
+.kutu {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.slider {
+    width: 1000px;
+    height: 500px;
+    float: left;
+    background-color: #c13eae;
+}
+
+.menu {
+    width: 1000px;
+    height: 40px;
+    float: left;
+    background-color: #c13eae;
+    margin-top: 5px;
+    margin-bottom:30px;
+}
+
+    .govde {
+        width: 1000px;
+        height: auto;
+        float: left;
+        margin-top: 5px;
+    }
+
+        .govdesol {
+            width: 270px;
+            height: auto;
+            float: left;
+        }
+
+.govdesolbaslik {
+    width: 100%;
+    height: 30px;
+    float: left;
+    background-color: #c13eae;
+    border: 1px dotted #bc68f6;
+}
+
+            .govdesolicerik {
+                width: 100%;
+                height: auto;
+                float: left;
+                border: 1px dotted #bc68f6;
+            }
+
+      .govdesag {
+            width: 700px;
+            height: auto;
+            float: right;
+            border: 1px dotted #bc68f6;
+        }
+
+.alt {
+    width: 100%;
+    height: 40px;
+    float: left;
+    background-color: #c13eae;
+    margin-top: 20px;
+    line-height:40px;
+    text-align:center;
+    color:ghostwhite;
+}

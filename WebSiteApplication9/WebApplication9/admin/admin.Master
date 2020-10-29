@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="WebApplication9.admin.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="admin.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 25px;
+            float: right;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="kutu">
+                    <div class="slider"></div>
+       <div class="govde">
+       <div class="govdesol">
+       <div class="govdesolbaslik">
+        <div style="font-weight:bolder;font-size:larger; color: #FFFFFF;">&nbsp;MENÜLER
+
+       </div>
+           </div>
+       <div class="govdesolicerik">
+                       <div style="height: 25px;color:#ffffff;font-weight:bolder;margin-top:5px;background-image:url(../temalar/mor-masaustu-resimleri-.png);background-repeat:repeat-x">&nbsp;&nbsp;&nbsp;&nbsp; <a href="duyurular.aspx">-Duyurular</a></div>
+
+            <div style="height: 25px;color:#ffffff;font-weight:bolder;margin-top:5px;background-image:url(../temalar/mor-masaustu-resimleri-.png);background-repeat:repeat-x">&nbsp;&nbsp;&nbsp;&nbsp; <a href="kategoriler.aspx">-Kategoriler</a></div>
+                       <div style="height: 25px;color:#ffffff;font-weight:bolder;margin-top:5px;background-image:url(../temalar/mor-masaustu-resimleri-.png);background-repeat:repeat-x">&nbsp;&nbsp;&nbsp;&nbsp; <a href="makaleler.aspx">-Makalaler</a></div>
+            <div style="height: 25px;color:#ffffff;font-weight:bolder;margin-top:5px;background-image:url(../temalar/mor-masaustu-resimleri-.png);background-repeat:repeat-x">&nbsp;&nbsp;&nbsp;&nbsp; <a href="yorumlar.aspx">-Yorumlar</a></div>
+            <div style="height: 25px;color:#ffffff;font-weight:bolder;margin-top:5px;background-image:url(../temalar/mor-masaustu-resimleri-.png);background-repeat:repeat-x">&nbsp;&nbsp;&nbsp;&nbsp; <a href="mesajlar.aspx">-Mesajlar</a></div>
+                       <div style="color:#ffffff;font-weight:bolder;margin-top:5px; background-color: #c13eae;" class="auto-style1"><a href="default.aspx" style="font-size: 18px">-ÇIKIŞ</a></div>
+
+
+       </div>
+       
+       </div>
+       
+       <div class="govdesag">
+           <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+           </asp:ContentPlaceHolder>
+           </div>
+                </div>
+      
+
+
+        </div>
+        </div>
+    </form>
+</body>
+</html>

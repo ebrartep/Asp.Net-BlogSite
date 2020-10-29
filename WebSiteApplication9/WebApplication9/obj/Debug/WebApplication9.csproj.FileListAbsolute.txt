@@ -1,0 +1,16 @@
+c:\users\toshiba\source\repos\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+c:\users\toshiba\source\repos\WebApplication9\WebApplication9\bin\WebApplication9.dll
+c:\users\toshiba\source\repos\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+c:\users\toshiba\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+c:\users\toshiba\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CoreCompileInputs.cache
+c:\users\toshiba\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+c:\users\toshiba\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+C:\Users\Toshiba\source\repos\WebApplication9\WebApplication9\bin\CKEditor.NET.dll
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\bin\WebApplication9.dll
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+C:\Users\TOSHIBA\Desktop\gönder\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
